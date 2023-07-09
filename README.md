@@ -17,4 +17,7 @@ The accuracy of Test data is 0.7619047619047619.
 
 Predection:
 I also maked a predictive System for it.
+
+
  
+![SonarDetection](https://github.com/KamranUmer/Sonar-Detection/assets/86089489/eb962ae3-6a60-4a26-a7b7-181341ad3de6)
